@@ -1,0 +1,2 @@
+17/06/19
+Learning how to position and space elements within an html page using CSS. Using command line as much as possible to open and organise files. Using Git and uploading files to Github. Looking at webpages that I like with the developer tools to see how they are structured. Making use of Google to search for CSS solutions.
